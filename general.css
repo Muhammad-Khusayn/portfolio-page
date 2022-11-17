@@ -236,8 +236,14 @@ button:hover {
   color: #f9004d;
 }
 
+.card i:hover {
+  transition: 0.4s;
+  color: #fa2f6f;
+  transform: scale(1.05);
+}
+
 h5 {
-  color: white;
+  color: #ffffff;
   font-size: 23px;
   margin-bottom: 15px;
 }
